@@ -1,40 +1,57 @@
 {
 	"item": [
 		{
-			"name": "Armor +1",
-			"data": {
-				"Category": "Items",
-				"Item Type": "Generic Variant",
-				"Requires Attunement": "No"
-			},
-			"content": "You have a +1 bonus to AC while wearing this armor.\n\n\n\nBase items.\nThis item variant can be applied to the following base items:\n\nBreastplate (Breastplate +1)\n\nChain Mail (Chain Mail +1)\n\nChain Shirt (Chain Shirt +1)\n\nHalf Plate Armor (Half Plate Armor +1)\n\nHide Armor (Hide Armor +1)\n\nLeather Armor (Leather Armor +1)\n\nPadded Armor (Padded Armor +1)\n\nPlate Armor (Plate Armor +1)\n\nRing Mail (Ring Mail +1)\n\nScale Mail (Scale Mail +1)\n\nSpiked Armor (Spiked Armor +1)\n\nSplint Armor (Splint Armor +1)\n\nStudded Leather Armor (Studded Leather Armor +1)",
-			"htmlcontent": "You have a +1 bonus to AC while wearing this armor.\n\n\n\nBase items.\nThis item variant can be applied to the following base items:\n\nBreastplate (Breastplate +1)\n\nChain Mail (Chain Mail +1)\n\nChain Shirt (Chain Shirt +1)\n\nHalf Plate Armor (Half Plate Armor +1)\n\nHide Armor (Hide Armor +1)\n\nLeather Armor (Leather Armor +1)\n\nPadded Armor (Padded Armor +1)\n\nPlate Armor (Plate Armor +1)\n\nRing Mail (Ring Mail +1)\n\nScale Mail (Scale Mail +1)\n\nSpiked Armor (Spiked Armor +1)\n\nSplint Armor (Splint Armor +1)\n\nStudded Leather Armor (Studded Leather Armor +1)"
+			"name": "Abacus",
+			"rarity": "None",
+			"type": "G",
+			"value": "2 gp",
+			"weight": "2",
+			"source": "PHB",
+			"page": 150
 		},
 		{
-			"name": "Longsword +1",
-			"data": {
-				"Category": "Items",
-				"Item Type": "Melee Weapon",
-				"_versatile": "1d10",
-				"Properties": "versatile (1d10)",
-				"Weight": "3",
-				"Damage": "1d8",
-				"Damage Type": "slashing",
-				"Requires Attunement": "No"
-			},
-			"content": "You have a +1 bonus to attack and damage rolls made with this weapon.\n\n\n\nVersatile.\nThis weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.",
-			"htmlcontent": "You have a +1 bonus to attack and damage rolls made with this weapon.\n\n\n\nVersatile.\nThis weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack."
+			"name": "Acid (vial)",
+			"rarity": "None",
+			"type": "G",
+			"value": "25 gp",
+			"weight": "1",
+			"source": "PHB",
+			"page": 148,
+			"entries": [
+				"As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes {@dice 2d6} acid damage."
+			]
 		},
 		{
-			"name": "Artefacto de Keladur",
-			"data": {
-				"Category": "Items",
-				"Item Type": "Wondrous Item",
-				"Weight": "25",
-				"Requires Attunement": "No"
-			},
-			"content": "Antiguo artefacto perdido.\nEfecto (Identificar)\n\nCuando este artefacto es activado, emite una energia de confort. Dicha energia tiene un poder divino basado en la naturaleza capaz de alterar los ecosistemas que rodean al aparato.\n\nDurante un periodo largo de tiempo y en un rango de 200km la tierra y plantas se ven enriquecidas causando un cambio positivo sobre toda la tierra que rodea este artefacto. Dicho cambio puede causar drasticos cambios en el ecosistema que le rodea, mas alla del radio de efecto. Dichos cambios pueden ser tan drasticos como para generar nuevos entes de vida jamas existentes. Si no es controlado este artefacto puede causar la aparicion de entes peligrosos e incluso dañinos para el propio ecosistema.\n\nLos efectos de dichos cambios empiezan a ser notorios a los pocos dias de su emision, pero se necesitan varios cientos de años para hacerlos permanente y no depender del efecto de este artefacto.\n\nNecesita proficiencia de Nature para utilizarlo.",
-			"htmlcontent": "Antiguo artefacto perdido.\nEfecto (Identificar)\n\nCuando este artefacto es activado, emite una energia de confort. Dicha energia tiene un poder divino basado en la naturaleza capaz de alterar los ecosistemas que rodean al aparato.\n\nDurante un periodo largo de tiempo y en un rango de 200km la tierra y plantas se ven enriquecidas causando un cambio positivo sobre toda la tierra que rodea este artefacto. Dicho cambio puede causar drasticos cambios en el ecosistema que le rodea, mas alla del radio de efecto. Dichos cambios pueden ser tan drasticos como para generar nuevos entes de vida jamas existentes. Si no es controlado este artefacto puede causar la aparicion de entes peligrosos e incluso dañinos para el propio ecosistema.\n\nLos efectos de dichos cambios empiezan a ser notorios a los pocos dias de su emision, pero se necesitan varios cientos de años para hacerlos permanente y no depender del efecto de este artefacto.\n\nNecesita proficiencia de Nature para utilizarlo."
+			"name": "Adventurer's Battleaxe",
+			"type": "M",
+			"weaponCategory": "Martial",
+			"baseItem": "battleaxe|phb",
+			"rarity": "Unknown (Magic)",
+			"weight": "2",
+			"dmg1": "{@dice 1d8}",
+			"dmg2": "{@dice 1d10}",
+			"dmgType": "S",
+			"property": [
+				"V"
+			],
+			"source": "CoS",
+			"page": 198,
+			"entries": [
+				"The axe's handle is carved with leaves and vines, and it weighs half as much as a normal battleaxe. When the axe hits a plant, whether an ordinary plant or a plant creature, the target takes an extra {@dice 1d8} slashing damage. When a creature of non-good alignment wields the axe, it sprouts thorns whenever its wielder makes an attack with it. These thorns prick the wielder for 1 piercing damage after the attack is made, and this damage is considered magical."
+			]
+		},
+		{
+			"name": "Airship",
+			"type": "SHP",
+			"rarity": "None",
+			"value": "20000 gp",
+			"speed": "8 mph",
+			"carryingcapacity": "1 ton cargo, 20 passengers",
+			"crew": 10,
+			"vehAc": 13,
+			"vehHp": 300,
+			"source": "DMG",
+			"page": 119
 		}
 	]
 }
