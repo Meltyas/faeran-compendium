@@ -1,0 +1,19 @@
+{
+    "item": [
+        {
+			"name": "Artefacto de Keladur",
+			"rarity": "Very rare",
+			"type": "G",
+			"value": "25 gp",
+			"weight": "40",
+			"source": "PHB",
+			"page": 148,
+			"entries": [
+                "Cuando este artefacto es activado, emite una energia de confort. Dicha energia tiene un poder divino basado en la naturaleza capaz de alterar los ecosistemas que rodean al aparato.",
+                "Durante un periodo largo de tiempo y en un rango de 200km la tierra y plantas se ven enriquecidas causando un cambio positivo sobre toda la tierra que rodea este artefacto. Dicho cambio puede causar drasticos cambios en el ecosistema que le rodea, mas alla del radio de efecto. Dichos cambios pueden ser tan drasticos como para generar nuevos entes de vida jamas existentes. Si no es controlado este artefacto puede causar la aparicion de entes peligrosos e incluso dañinos para el propio ecosistema.",
+                "Los efectos de dichos cambios empiezan a ser notorios a los pocos dias de su emision, pero se necesitan varios cientos de años para hacerlos permanente y no depender del efecto de este artefacto.",
+                "Necesita proficiencia de Nature para utilizarlo."
+			]
+        }
+    ]
+}
