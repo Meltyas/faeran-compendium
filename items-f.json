@@ -34,6 +34,7 @@
 		},
 		{
 			"name": "Adamantine Armor",
+			"type": "SHP",
 			"content": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.\n\n\n\nBase items.\nThis item variant can be applied to the following base items:\n\nBreastplate (Adamantine Breastplate)\n\nChain Mail (Adamantine Chain Mail)\n\nChain Shirt (Adamantine Chain Shirt)\n\nHalf Plate Armor (Adamantine Half Plate Armor)\n\nPlate Armor (Adamantine Plate Armor)\n\nRing Mail (Adamantine Ring Mail)\n\nScale Mail (Adamantine Scale Mail)\n\nSpiked Armor (Adamantine Spiked Armor)\n\nSplint Armor (Adamantine Splint Armor)",
 			"htmlcontent": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.\n\n\n\nBase items.\nThis item variant can be applied to the following base items:\n\nBreastplate (Adamantine Breastplate)\n\nChain Mail (Adamantine Chain Mail)\n\nChain Shirt (Adamantine Chain Shirt)\n\nHalf Plate Armor (Adamantine Half Plate Armor)\n\nPlate Armor (Adamantine Plate Armor)\n\nRing Mail (Adamantine Ring Mail)\n\nScale Mail (Adamantine Scale Mail)\n\nSpiked Armor (Adamantine Spiked Armor)\n\nSplint Armor (Adamantine Splint Armor)"
 		}
