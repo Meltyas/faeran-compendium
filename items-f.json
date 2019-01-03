@@ -1,27 +1,6 @@
 {
 	"item": [
 		{
-			"name": "Abacus",
-			"rarity": "None",
-			"type": "G",
-			"value": "2 gp",
-			"weight": "2",
-			"source": "PHB",
-			"page": 150
-		},
-		{
-			"name": "Acid (vial)",
-			"rarity": "None",
-			"type": "G",
-			"value": "25 gp",
-			"weight": "1",
-			"source": "PHB",
-			"page": 148,
-			"entries": [
-				"As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes {@dice 2d6} acid damage."
-			]
-		},
-		{
 			"name": "Adventurer's Battleaxe",
 			"type": "M",
 			"weaponCategory": "Martial",
@@ -52,6 +31,11 @@
 			"vehHp": 300,
 			"source": "DMG",
 			"page": 119
+		},
+		{
+			"name": "Adamantine Armor",
+			"content": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.\n\n\n\nBase items.\nThis item variant can be applied to the following base items:\n\nBreastplate (Adamantine Breastplate)\n\nChain Mail (Adamantine Chain Mail)\n\nChain Shirt (Adamantine Chain Shirt)\n\nHalf Plate Armor (Adamantine Half Plate Armor)\n\nPlate Armor (Adamantine Plate Armor)\n\nRing Mail (Adamantine Ring Mail)\n\nScale Mail (Adamantine Scale Mail)\n\nSpiked Armor (Adamantine Spiked Armor)\n\nSplint Armor (Adamantine Splint Armor)",
+			"htmlcontent": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.\n\n\n\nBase items.\nThis item variant can be applied to the following base items:\n\nBreastplate (Adamantine Breastplate)\n\nChain Mail (Adamantine Chain Mail)\n\nChain Shirt (Adamantine Chain Shirt)\n\nHalf Plate Armor (Adamantine Half Plate Armor)\n\nPlate Armor (Adamantine Plate Armor)\n\nRing Mail (Adamantine Ring Mail)\n\nScale Mail (Adamantine Scale Mail)\n\nSpiked Armor (Adamantine Spiked Armor)\n\nSplint Armor (Adamantine Splint Armor)"
 		}
 	]
 }
