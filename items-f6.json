@@ -1,17 +1,19 @@
 {
-	"item": [
+    "item": [
         {
-			"name": "Abacus",
-			"rarity": "None",
-			"type": "G",
-			"value": "2 gp",
-			"weight": "2",
-			"source": "PHB",
-			"page": 150
-        },
-        {
-			"name": "Abacus",
-			"weight": "2"
-		}
-	]
+            "name": "Adamantine Dagger",
+            "data": {
+                "Category": "Items",
+                "Item Type": "Melee Weapon",
+                "Properties": "finesse, light, thrown (20/60ft.)",
+                "Weight": "1",
+                "Range": "20/60",
+                "Damage": "1d4",
+                "Damage Type": "piercing",
+                "Requires Attunement": "No"
+            },
+            "content": "Whenever you hit an object with this weapon, the hit is a critical hit.\n\n\n\nFinesse.\nWhen making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.\n\n\n\nLight.\nA light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.\n\n\n\nThrown.\nIf a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
+            "htmlcontent": "Whenever you hit an object with this weapon, the hit is a critical hit.\n\n\n\nFinesse.\nWhen making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.\n\n\n\nLight.\nA light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.\n\n\n\nThrown.\nIf a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
+        }
+    ]
 }

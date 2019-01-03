@@ -1,0 +1,13 @@
+{
+    "item": [
+        {
+			"name": "Alchemist potion (Wigmig)",
+			"type": "P",
+			"weight": "0.5",
+			"source": "RotH 3pp",
+			"entries": [
+				"This dark, viscous, and lumpy liquid sends orcs into a battle fury, allowing them to ignore even grievous injuries. A few orcs drink it recreationally, but these are viewed as eccentrics, or violently insane, even by other orcs. When you drink this potion, roll a {@dice d6}:"
+			]
+		}
+    ]
+}
